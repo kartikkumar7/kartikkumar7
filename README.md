@@ -2,7 +2,6 @@
 
 <img align="left" alt="Kartik | Photo"  src="https://media-exp1.licdn.com/dms/image/C5103AQERr3uNj07ILw/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=FBP_OBx9_G7jV_TDW0Q7uOcTgJfEHU2ZQi9FAC3eiR0" />
 
-<br />
 
 [![Motto](https://img.shields.io/badge/Keep-Hustling-red)](https://github.com/kartikkumar7)
 [![Motto](https://img.shields.io/badge/Stay-Calm-yellow)](https://github.com/kartikkumar7)
