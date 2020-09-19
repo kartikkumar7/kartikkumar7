@@ -2,12 +2,14 @@
 
 <img align="left" alt="Kartik | Photo"  src="https://media-exp1.licdn.com/dms/image/C5103AQERr3uNj07ILw/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=FBP_OBx9_G7jV_TDW0Q7uOcTgJfEHU2ZQi9FAC3eiR0" />
 
-[!(Motto)(https://img.shields.io/badge/Keep-Hustling-red)](https://github.com/kartikkumar7)
-[!(Motto)(https://img.shields.io/badge/Stay-Calm-yellow)](https://github.com/kartikkumar7)
-[!(Motto)(https://img.shields.io/badge/Reach-Goals-green)](https://github.com/kartikkumar7)
+<br />
+
+[![Motto](https://img.shields.io/badge/Keep-Hustling-red)](https://github.com/kartikkumar7)
+[![Motto](https://img.shields.io/badge/Stay-Calm-yellow)](https://github.com/kartikkumar7)
+[![Motto](https://img.shields.io/badge/Reach-Goals-green)](https://github.com/kartikkumar7)
 
 
-## I'm a current Graduate Student, Graduate Teaching Assistant, Graduate Programmer Analyst, and President of <a href="https://github.com/neuaiskunkworks/" target="_blank"> AI Skunkworks </a> at Northeastern University  :simple_smile:
+## I'm a current Graduate Student, Graduate Teaching Assistant, Graduate Programmer Analyst, and President of <a href="https://github.com/neuaiskunkworks/" target="_blank"> AI Skunkworks </a> at Northeastern University  
 
 - :mortar_board: All of my coursework revolves around Data Science and Machine Learning :computer: :neckbeard:
 - :runner: My hobbies include :basketball: :tennis: :8ball: 
