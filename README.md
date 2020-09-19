@@ -14,6 +14,10 @@
 - :runner: My hobbies include :basketball: :tennis: :8ball: 
 - 🥅 2020 Goals: To work with a dynamic company on Data Science and Machine Learning problems
 
+<br />
+<br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Kartik | website" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
