@@ -1,8 +1,8 @@
 ### Hi there, I'm Kartik [website] 👋
 
-[<img align="left" alt="Kartik | photo" width="32" src="https://media-exp1.licdn.com/dms/image/C5103AQERr3uNj07ILw/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=FBP_OBx9_G7jV_TDW0Q7uOcTgJfEHU2ZQi9FAC3eiR0" />]
+[![GitHub Logo](https://media-exp1.licdn.com/dms/image/C5103AQERr3uNj07ILw/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=FBP_OBx9_G7jV_TDW0Q7uOcTgJfEHU2ZQi9FAC3eiR0)]
 
-[(https://img.shields.io/badge/Keep-Hustling-red)][(https://img.shields.io/badge/Stay-Calm-yellow)][(https://img.shields.io/badge/Reach-Goals-green)]
+[!(Motto)(https://img.shields.io/badge/Keep-Hustling-red)][!(Motto)(https://img.shields.io/badge/Stay-Calm-yellow)][!(Motto)(https://img.shields.io/badge/Reach-Goals-green)]
 
 
 ## I'm a Graduate Student, Graduate Teaching Assistant, Graduate Programmer Analyst, and President of AI Skunkworks at Northeastern University  :simple_smile:
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kartik | website" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Kartik | website" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kartik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
