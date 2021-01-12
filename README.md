@@ -12,7 +12,7 @@
 
 - :mortar_board: All of my coursework revolves around Data Science and Machine Learning :computer: :neckbeard:
 - :runner: My hobbies include :basketball: :tennis: :8ball: 
-- 🥅 2021 Goals: To master data engineering and data science skills by hand-on learning and become an industry expert
+- 🥅 2021 Goals: To master the are of creating data pipelines and drawing insights with ML
 
 <br />
 <br />
