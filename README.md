@@ -8,7 +8,7 @@
 [![Motto](https://img.shields.io/badge/Reach-Goals-green)](https://github.com/kartikkumar7)
 
 
-## I'm a current Graduate Student at Northeastern Universit and a Data Engineer Intern at SpringML. Prior to my internship I served as Graduate Teaching Assistant, Graduate Programmer Analyst, and President of <a href="https://github.com/neuaiskunkworks/" target="_blank"> AI Skunkworks </a> at Northeastern University  
+## I'm a current Graduate Student at Northeastern Universit and a Data Engineer Intern at SpringML. Prior to my internship, I served as a Graduate Teaching Assistant, Graduate Programmer Analyst, and President of <a href="https://github.com/neuaiskunkworks/" target="_blank"> AI Skunkworks </a> at Northeastern University  
 
 - :mortar_board: All of my coursework revolves around Data Science and Machine Learning :computer: :neckbeard:
 - :runner: My hobbies include :basketball: :tennis: :8ball: 
