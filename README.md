@@ -1,6 +1,6 @@
 ### Hi there, I'm Kartik [website] 👋
 
-<img align="left" alt="Kartik | Photo"  src="https://media-exp1.licdn.com/dms/image/C5103AQERr3uNj07ILw/profile-displayphoto-shrink_400_400/0?e=1613001600&v=beta&t=wR1HCqeQqSEargAlcarqodZKZSL9vr7HAhvsufaNCIc" />
+<img align="left" alt="Kartik | Photo"  src="https://media-exp1.licdn.com/dms/image/C5103AQERr3uNj07ILw/profile-displayphoto-shrink_800_800/0/1587054110050?e=1637193600&v=beta&t=--X5oIziWwkJ4yGYIouh5uZcL50oblCK4ph0ZkSBcE8" />
 
 
 [![Motto](https://img.shields.io/badge/Keep-Hustling-red)](https://github.com/kartikkumar7)
@@ -8,7 +8,7 @@
 [![Motto](https://img.shields.io/badge/Reach-Goals-green)](https://github.com/kartikkumar7)
 
 
-## I'm a current Graduate Student at Northeastern University and a Data Engineer Intern at SpringML. Prior to my internship, I served as a Graduate Teaching Assistant, Graduate Programmer Analyst, and President of <a href="https://github.com/neuaiskunkworks/" target="_blank"> AI Skunkworks </a> at Northeastern University  
+## I'm a current Graduate Student at Northeastern University and a Data Engineer Co-op at SpringML. Prior to my co-op, I served as a Graduate Teaching Assistant, Graduate Programmer Analyst, and President of <a href="https://github.com/neuaiskunkworks/" target="_blank"> AI Skunkworks </a> at Northeastern University  
 
 - :mortar_board: All of my coursework revolves around Data Science and Machine Learning :computer: :neckbeard:
 - :runner: My hobbies include :basketball: :tennis: :8ball: 
