@@ -1,6 +1,6 @@
 ### Hi there, I'm Kartik [website] 👋
 
-<img align="left" alt="Kartik | Photo"  src="https://media-exp1.licdn.com/dms/image/C5103AQERr3uNj07ILw/profile-displayphoto-shrink_800_800/0/1587054110050?e=1637193600&v=beta&t=--X5oIziWwkJ4yGYIouh5uZcL50oblCK4ph0ZkSBcE8" />
+<img align="left" alt="Kartik | Photo"  src="https://media-exp1.licdn.com/dms/image/C5103AQERr3uNj07ILw/profile-displayphoto-shrink_800_800/0/1587054110050?e=1643846400&v=beta&t=-5JxsQ716L59GEROjJFd56xqqxphDOSj5NbutAgB0NU" />
 
 
 [![Motto](https://img.shields.io/badge/Keep-Hustling-red)](https://github.com/kartikkumar7)
